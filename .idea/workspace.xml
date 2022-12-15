@@ -1,14 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c0414c1e-6f36-4903-a84d-8cd89d91f1a9" name="Changes" comment="" />
+    <list default="true" id="c0414c1e-6f36-4903-a84d-8cd89d91f1a9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stream/StreamExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stream/StreamExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stream/filter/FilterExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stream/filter/FilterExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stream/filter/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stream/filter/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stream/foreach/ForeachExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stream/foreach/ForeachExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stream/map/MapExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stream/map/MapExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stream/methodchaining/MethodChainingExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stream/methodchaining/MethodChainingExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stream/reduce/ReduceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stream/reduce/ReduceExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stream/sorted/SortedExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stream/sorted/SortedExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stream/streammethod2/collect/groupingby/GroupingByExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stream/streammethod2/collect/groupingby/GroupingByExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stream/streammethod2/collect/partitioningBy/PartitioningByExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stream/streammethod2/collect/partitioningBy/PartitioningByExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stream/streammethod2/concat/ConcatExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stream/streammethod2/concat/ConcatExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stream/streammethod2/count/CountReturnLong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stream/streammethod2/count/CountReturnLong.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stream/streammethod2/distinct/DistinctExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stream/streammethod2/distinct/DistinctExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stream/streammethod2/flatMap/FlatMapExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stream/streammethod2/flatMap/FlatMapExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stream/streammethod2/peek/PeekExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stream/streammethod2/peek/PeekExample.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2ItkZysbBnoJNTedU1CfHFkv3i2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -16,12 +45,89 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Application.FlatMapExample">
+    <configuration name="DistinctExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stream.streammethod2.distinct.DistinctExample" />
+      <module name="stream_8java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stream.streammethod2.distinct.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlatMapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stream.streammethod2.flatMap.FlatMapExample" />
+      <module name="stream_8java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stream.streammethod2.flatMap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GroupingByExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stream.streammethod2.collect.groupingby.GroupingByExample" />
+      <module name="stream_8java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stream.streammethod2.collect.groupingby.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodChainingExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stream.methodchaining.MethodChainingExample" />
+      <module name="stream_8java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stream.methodchaining.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PeekExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stream.streammethod2.peek.PeekExample" />
+      <module name="stream_8java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stream.streammethod2.peek.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FlatMapExample" />
+        <item itemvalue="Application.GroupingByExample" />
+        <item itemvalue="Application.PeekExample" />
+        <item itemvalue="Application.DistinctExample" />
+        <item itemvalue="Application.MethodChainingExample" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,5 +138,20 @@
       <updated>1671008332604</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
